@@ -1,6 +1,6 @@
 | Description | Hands On Lab Exercises for  RNASeq assembly |
 | Authors | Erwan Corre (ABiMS) | Julie Orjuela-Bouniol (julie.orjuela@ird.fr)  - i-trop platform (UMR BOREA / DIADE / IPME - IRD) |
-| Creation Date | 26/10/2019 | Inspired by tha SouthGrren ABiMS Rnaseq de novo course 10/2019 Montpellier|
+| Creation Date | 26/10/2019 | Inspired by the SouthGreen- ABiMS Rnaseq de novo course 10/2019 Montpellier|
 |Modified by | ...| https://gitlab-bioinfo.ird.fr/orjuela/formationSG-ABiMs-AA2019/tree/master
 
 
